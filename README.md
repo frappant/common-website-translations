@@ -28,9 +28,7 @@ If any of the translations awaken interest in what technology they're used for, 
 We speak English, German, Swiss German and French.
 
 ## Author
-[!frappant](https://frappant.ch/), [Mark Howells-Mead](https.//markweb.ch/), and contributing translators | [frappant.ch](https://frappant.ch/) | Since October 2016
+[!frappant](https://frappant.ch/) and contributing translators | [frappant.ch](https://frappant.ch/) | Since October 2016
 
 ##License
-Use this code freely, widely and for free. Provision of the content of this repository provides and implies no guarantee.
-
-Please respect the GPL v3 licence, which is available via http://www.gnu.org/licenses/gpl-3.0.html
+Use this code freely, widely and for free. Provision of the content of this repository provides and implies no guarantee. Please respect the GPL v3 licence, which is available via http://www.gnu.org/licenses/gpl-3.0.html
