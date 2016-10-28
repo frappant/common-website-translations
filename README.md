@@ -1,5 +1,9 @@
 # Common website translations
 
+## Note
+Please be aware that this list has only just been created and as such, is neither complete nor free of bugs. 
+We're working on it, so be patient please!
+
 ## Description
 Anyone who ever works on a website in multiple languages knows that at some point, there is a painful 
 process during which a load of strings need to be translated. Without employing translators for various 
