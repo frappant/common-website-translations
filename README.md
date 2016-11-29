@@ -25,9 +25,9 @@ with technical translation files.
 ## Contribute
 If you feel like contributing to this public resource, then please feel free to fork this repository, make amendments 
 or additions, and submit them using a pull request. **Please don't add automatically-generated translations** from Google 
-Translate etc.!!! This list should remain a confirmed, accurate public resource.
+Translate. This list should remain a confirmed, accurate public resource.
 
-Please make sure that any changes to the CSV file are UTF-8 encoded, so that special characters don't break.
+Please make sure that any changes to the file are UTF-8 encoded, so that special characters don't break.
 
 If any of the translations awaken interest in what technology they're used for, then don't hesitate to [get in touch](mailto:support@frappant.ch). 
 We speak English, German, Swiss German and French.
