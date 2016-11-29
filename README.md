@@ -5,7 +5,7 @@ Please be aware that this list has only just been created and as such, is neithe
 We're working on it, so be patient please! The .tsv file is a Tab Separated Values format: like CSV, but using 
 tabs instead of commas to separate the data columns.
 
-## Description
+## What is this?
 Anyone who ever works on a website in multiple languages knows that at some point, there is a painful 
 process during which a load of strings need to be translated. Without employing translators for various 
 languages, who have a detailed insight into the project, it's often a drawn-out process to get content and 
@@ -21,6 +21,15 @@ a list of non-client-specific translations in this repository. In most cases, th
 into a specific plugin or extension, so we have the opportunity to tweak the text according to client needs as 
 necessary. In many cases, we'll save our clients at least some of the pain - and perhaps cost - of dealing 
 with technical translation files.
+
+## Other resources
+The following external websites and repositories serve as maintained, approved translations.
+
+* [Continents and cities](https://translate.wordpress.org/projects/wp/dev/cc) (by WordPress Translators)
+
+### WordPress-specific
+* [Glossary](https://translate.wordpress.org/projects/wp/dev/de/default/glossary) of regular terms.
+* [WordPress admin](https://translate.wordpress.org/projects/wp/dev/admin) terms.
 
 ## Contribute
 If you feel like contributing to this public resource, then please feel free to fork this repository, make amendments 
