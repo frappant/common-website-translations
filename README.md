@@ -2,7 +2,8 @@
 
 ## Note
 Please be aware that this list has only just been created and as such, is neither complete nor free of bugs. 
-We're working on it, so be patient please!
+We're working on it, so be patient please! The .tsv file is a Tab Separated Values format: like CSV, but using 
+tabs instead of commas to separate the data columns.
 
 ## Description
 Anyone who ever works on a website in multiple languages knows that at some point, there is a painful 
